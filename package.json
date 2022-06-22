@@ -1,0 +1,16 @@
+{
+  "name": "atelier",
+  "version": "0.0.2",
+  "scripts": {
+    "start": "node app.js",
+    "serve": "npx nodemon app.js"
+  },
+  "author": "James Reagan",
+  "license": "0BSD",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "nodemon": "^2.0.16",
+    "pg": "^8.7.3"
+  }
+}
